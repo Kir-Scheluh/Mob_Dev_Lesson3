@@ -16,3 +16,5 @@ rootProject.name = "Lesson 3"
 include ':app'
 include ':intentapp'
 include ':share'
+include ':favouritebook'
+include ':systemintentsapp'
